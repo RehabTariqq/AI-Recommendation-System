@@ -1,8 +1,8 @@
-AI Movie Recommendation System
+**AI Movie Recommendation System**
 
 A simple movie recommendation system that recommends movies based on user preferences using similarity scoring.
 
-Project Overview
+**Project Overview**
 
 This project was developed as part of my Artificial Intelligence internship at DecodeLabs.
 
@@ -16,7 +16,7 @@ It compares these preferences with information about a collection of movies and 
 
 Movies with higher similarity scores are displayed as stronger recommendations.
 
- Objective
+**Objective**
 
 The objective of this project is to demonstrate a basic recommendation system using:
 
@@ -25,7 +25,8 @@ Dataset handling
 Similarity logic
 Preference matching
 Recommendation ranking
- How It Works
+
+**How It Works**
 
 The system follows these steps:
 
@@ -38,7 +39,8 @@ Calculates a similarity score.
 Sorts movies according to their scores.
 Displays matching movie recommendations.
 Allows the user to rate the recommendations.
- Similarity Scoring
+
+**Similarity Scoring**
 
 Each matching preference gives the movie 1 point.
 
@@ -60,7 +62,7 @@ Language: English
 A movie matching all three preferences receives:
 
 3/3
-🎬 Movie Dataset
+**🎬 Movie Dataset**
 
 The system currently contains 12 movies:
 
@@ -83,12 +85,12 @@ Title
 Genre
 Mood
 Language
-🛠️ Technologies Used
+**Technologies Used**
 Python
 Pandas
 Git
 GitHub
-▶ How to Run
+**▶ How to Run**
 1. Clone the repository
 git clone https://github.com/RehabTariqq/AI-Recommendation-System.git
 2. Open the project folder
@@ -116,7 +118,7 @@ The system compares these preferences with the movie dataset and calculates a si
 
 Movies with matching preferences receive higher scores and are displayed as recommendations.
 
- Concepts Demonstrated
+**Concepts Demonstrated**
 
 This project demonstrates basic concepts including:
 
@@ -133,7 +135,7 @@ Sorting
 Recommendation logic
  Future Improvements
 
-Possible improvements include:
+**Possible improvements include:**
 
 Adding more movies
 Adding ratings for individual movies
@@ -144,4 +146,4 @@ Using machine learning for recommendations
 Adding content-based filtering
 Connecting the system to a movie database API
 
-Built as part of my Artificial Intelligence Internship at DecodeLabs.
+*Built as part of my Artificial Intelligence Internship at DecodeLabs.*
