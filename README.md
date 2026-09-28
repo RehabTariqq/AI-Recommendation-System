@@ -66,18 +66,18 @@ A movie matching all three preferences receives:
 
 The system currently contains 12 movies:
 
-Inception
-Interstellar
-The Martian
-3 Idiots
-500 Days of Summer
-The Notebook
-La La Land
-Avengers: Endgame
-The Pursuit of Happyness
-Inside Out
-Taare Zameen Par
-Fight Club
+- Inception
+- Interstellar
+- The Martian
+- 3 Idiots
+- 500 Days of Summer
+- The Notebook
+- La La Land
+- Avengers: Endgame
+- The Pursuit of Happyness
+- Inside Out
+- Taare Zameen Par
+- Fight Club
 
 Each movie contains:
 
