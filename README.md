@@ -3,9 +3,6 @@
 A simple movie recommendation system that recommends movies based on user preferences using similarity scoring.
 
 ##  Project Overview
-
-This project was developed as part of my Artificial Intelligence internship at **DecodeLabs**.
-
 The system takes three user preferences:
 
 * Genre
